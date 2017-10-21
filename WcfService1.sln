@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{FCDD7995-5601-46DD-B363-B76F33D0DC12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceBookstore", "WcfServiceBookstore\WcfServiceBookstore.csproj", "{DEAD3E3D-3AEC-4D01-BCEA-36215CC0710F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDD7995-5601-46DD-B363-B76F33D0DC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDD7995-5601-46DD-B363-B76F33D0DC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDD7995-5601-46DD-B363-B76F33D0DC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDD7995-5601-46DD-B363-B76F33D0DC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEAD3E3D-3AEC-4D01-BCEA-36215CC0710F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAD3E3D-3AEC-4D01-BCEA-36215CC0710F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAD3E3D-3AEC-4D01-BCEA-36215CC0710F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAD3E3D-3AEC-4D01-BCEA-36215CC0710F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
